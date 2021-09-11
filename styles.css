@@ -40,7 +40,7 @@
     width: 50px;
 }
 
-#test .descrip-3 {
+#test > p {
     border-style: groove;
 }
 
