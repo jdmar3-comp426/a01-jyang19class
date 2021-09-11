@@ -40,7 +40,7 @@
     width: 50px;
 }
 
-#test > p {
+div > p {
     border-style: groove;
 }
 
