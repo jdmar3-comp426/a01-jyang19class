@@ -1,0 +1,55 @@
+.big-link {
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+.bigger-link {
+    font-size: large;
+    background-color: #a3a3a3;
+}
+
+.biggest-link {
+    font-size: larger;
+    background-color: #b123c1
+}
+
+#intro {
+    border: royalblue;
+    border-radius: 5px;
+    background-color: #1322aa;
+    border-style: dotted;
+}
+
+.descrip {
+    border-style: solid;
+}
+
+.index-link:hover {
+    background-color: skyblue;
+}
+
+#intro-b {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.descrip-2 {
+    background-color: #1322aa;
+    height: 50px;
+    width: 50px;
+}
+
+div p {
+    border-style: groove;
+}
+
+#intro-3 {
+    width: 500px;
+    height: 500px;
+    background-color: #b123c1;
+}
+
+.descrip-3 {
+    border-style: ridge;
+}
